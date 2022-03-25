@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/nav_nangCap"
+            android:title="Nâng cấp tài khoản Pro"/>
+
+        <item android:id="@+id/nav_trangCaNhan"
+            android:title="Trang cá nhân"/>
+
+        <item android:id="@+id/nav_chuDe"
+            android:title="Chủ đề"/>
+
+        <item android:id="@+id/nav_fontChu"
+            android:title="Font chữ"/>
+
+        <item android:id="@+id/nav_danhGia"
+            android:title="Đánh giá ứng dụng"/>
+
+        <item android:id="@+id/nav_chiaSe"
+            android:title="Chia sẻ cho bạn bè"/>
+
+        <item android:id="@+id/nav_guidLine"
+            android:title="Guidline"/>
+
+        <item android:id="@+id/nav_dangXuat"
+            android:title="Đăng xuất"/>
+
+    </group>
+
+</menu>
